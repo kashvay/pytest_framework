@@ -1,0 +1,22 @@
+{
+  "environment": "staging"
+ ,
+  "app_details": [
+    {
+      "demo_app_url_prod" :"https://www.icmarkets.com.au/en/open-trading-account/demo",
+      "demo_app_url_test": "https://staging.icmarkets.com/au/en/open-trading-account/demo"
+    }
+  ],
+  "registration_form_inputs": [
+    {
+     "country_of_residence": "",
+      "first_name": "test icm",
+      "middle_name": "",
+      "last_name": "qa",
+      "email": "testicmqa@finogroups.com",
+      "phone": "44575878876"
+    }
+  ],
+
+    "au_demo_web_page_title": "Open a Demo Trading Account | IC Markets Australia"
+}
