@@ -1,4 +1,4 @@
-# ICM Test Automation
+# Python Test Automation
 This project is about automating the regression test cases for corporate website and client area. It uses **selenium python with pytest framework**. 
 It uses POM model. The test runs in Chrome , Firefox and Edge as parameterized tests. This document describes about how to setup this project in local.
 
